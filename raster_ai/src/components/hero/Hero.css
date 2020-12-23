@@ -1,0 +1,21 @@
+.rw-btn {
+    color: #7068f0;
+    font-size: 15px;
+    border-radius: 9999px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #7068f0;
+    background-color: white;
+    text-decoration: none;
+    line-height: 1;
+    padding: .5rem 1rem;
+    transition-duration: .2s;
+
+}
+
+.rw-btn:hover {
+    --bg-opacity: 1;
+    background-color: #7068f0;
+    color: #fff;
+
+}
